@@ -1,5 +1,4 @@
 # 2018-TowerDefence
-
 The Entelect Challenge is an annual coding competition where students, professional developers, and enthusiasts develop an intelligent bot to play a game.
 
 This year, the game is Tower Defence involving some strategic thinking. We have made it as simple as possible to get started. Just follow the steps below.
